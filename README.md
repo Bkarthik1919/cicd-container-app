@@ -6,8 +6,6 @@ This project demonstrates a complete CI/CD (Continuous Integration & Continuous 
 
 The application is a simple Node.js web server that is containerized with Docker and automatically built and deployed through a Jenkins Pipeline.
 
-⭐ If you found this project useful, don't forget to star the repository!
-
 ---
 
 🛠️ Technologies Used
